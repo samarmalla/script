@@ -53,3 +53,6 @@ console.log(x > y);
 console.log(x < y);
 console.log(x >= y);
 console.log(x <= y); 
+
+//1. == tends to convert the operands to the same type before making the comparison and
+// === checks for both value and type equality.
